@@ -6,7 +6,9 @@ from datos.mapa import mapa as mp
 
 if __name__ == '__main__':
     #################       PARTE LECTURA Y PROCESO JSON Y CARGA A MONGO    #####################
+    1 == 1
     print("HOLA")
+    print("TEST")
     # ficheros = ["enejun2019.xlsx", "juldic2019.xlsx", "enejun2020.xlsx", "juldic2020.xlsx" ]
     # ficheros = ["enejun2020.xlsx"]
     # for fichero in ficheros:
