@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>inSuit Configuration</title>
+		<script type="text/javascript" src="config_iframe_data/insuit-libraries.js"></script>
+		<script type="text/javascript">
+			var tmp, i, bus = new i4t.iframeBus(), 				
+				configKey = i4t.config.get("configKey"),
+				configKeyOptions = i4t.config.get("configKey") + "-options",
+				cacheKey = i4t.config.get("cacheKey"),
+				cacheKeyStorage = cacheKey + "-" + i4t.version,
+				get = function (key) {
+					var config = storage.get(key);
+					try {
+						config = i4t(config).toJSON();
+					} catch(ex) {
+						i4t.logger.warning("No ha sido posible sacar las opciones de configuración para: " + key, ex);
+						config = {};
+						storage.delete(key);
+					}					
+					return config;
+				},
+				set = function (key, config) {
+					storage.set(key, i4t(config).stringify());
+				},
+				storage = new i4t.storage(function (conf) {
+					var that = this;
+					//limpieza de caches anteriores
+					i4t(conf).each(function (key){
+						if((i4t(key).startsWith(cacheKey) && key !== cacheKeyStorage) || i4t(i4t.version).startsWith("${")) {
+							that.delete(key);	        
+						}
+					});
+				});			
+			
+			i4t.event.addListener('load', function(){
+				bus.onActive(function(){
+					//Seteamos todas las caches
+					var config = get(cacheKeyStorage);
+					bus.publish(cacheKey + "-setted-all", config);
+					
+					//Pasamos las opciones de configuración actual
+					config = get(configKeyOptions);
+					bus.publish(configKeyOptions + "-setted", config);
+
+					//Pasamos la configuración actual
+					config = get(configKey);
+					bus.publish(configKey, config);
+				});
+				
+				//Gestión de la configuración
+				bus.subscribe(configKey + "-get", function(config) {
+					var config = get(configKey);
+					bus.publish(configKey, config);
+				});
+
+				//Gestión de la configuración
+				bus.subscribe(configKey + "-save", function(config) {
+					var oldConfig = get(configKey);
+					if(!i4t(oldConfig.UUID).isNullOrEmptyString()) {
+						config.UUID = oldConfig.UUID;
+					}
+					config.isActive = true;
+					set(configKey, config);
+					bus.publish(configKey + "-saved", config, oldConfig);
+				});
+				
+				bus.subscribe(configKey + "-set", function(code, value) {
+					var config = get(configKey);
+					config[code] = value;
+					set(configKey, config);
+					bus.publish(configKey + "-setted", config);
+				});
+				
+				bus.subscribe(configKey + "-deactivate", function() {
+					//Pasamos la configuración actual
+					var config = get(configKey);
+					config.isActive = false;
+					set(configKey, config);
+					bus.publish(configKey + "-deactivated", config);
+				});
+				bus.subscribe(configKey + "-remove", function() {
+					storage.remove(configKey);
+					bus.publish(configKey + "-removed", null);
+				});
+				
+				//Gestión de opciones
+				bus.subscribe(configKeyOptions + "-set", function(code, value) {
+					//Pasamos la configuración actual
+					var config = get(configKeyOptions);
+					config[code] = value;
+					set(configKeyOptions, config);
+					bus.publish(configKeyOptions + "-setted", config);
+				});
+				
+				//Gestión de Caches
+				bus.subscribe(cacheKey + "-get", function(code) {
+					var value, config = get(cacheKeyStorage);
+					value = config[code];
+					bus.publish(cacheKey + "-getted", value);
+				});
+				bus.subscribe(cacheKey + "-set", function(obj) {
+					var config = get(cacheKeyStorage);
+					i4t.extend(config, obj); 
+					set(cacheKeyStorage, config);
+					bus.publish(cacheKey + "-setted");
+				});
+				bus.subscribe(cacheKey + "-remove", function(code) {
+					var config = get(cacheKeyStorage);
+					delete config[code]; 
+					set(cacheKeyStorage, config);
+					bus.publish(cacheKey + "-removed", null);
+				});
+				bus.subscribe(cacheKey + "-remove-all", function(code) {
+					storage.remove(cacheKeyStorage);
+					bus.publish(cacheKey + "-removed-all", null);
+				});
+			}, window);
+		</script>
+	</head>
+	<body>
+</body></html>

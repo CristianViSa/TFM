@@ -1,0 +1,45 @@
+.ui-widget.ui-widget-content {
+    border: 0px;
+}
+
+.ui-widget-content {
+    border: 1px solid #dddddd;
+    background: none;
+    color: none;
+}
+
+.ui-widget {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    text-transform: capitalize;
+}
+
+.ui-widget-header {
+    border: 0px;
+    background: none;
+    color: none;
+    font-weight: bold;
+    border-bottom: 1.5px #4580b4 solid;
+}
+
+.ui-datepicker-title{
+	font-size: 1em;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: bold;
+	color:#121d36;
+}
+
+/*cajas dias*/
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+    border: 0px;
+    background: none;
+    font-weight: normal;
+    color: none;
+    text-align: center;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
+	background-color: #000000;
+	color:#ffffff;
+	border-radius: 50%;
+}

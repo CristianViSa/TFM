@@ -1,0 +1,390 @@
+ATA,DESCRIPCION,TIPO,BARRIO,CP,SENTIDO,CARRILES,LIMITE,COMENTARIO
+B47,fuerteventura,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+A229,sangre-garrigues,residencial,ciutat vella,46001,1,1,30,calle pequeña
+A222,sagunto de santa monica a maximiliano thous,terciaria,la saidia,46009,1,2,30,calle larga
+A174,paseo ciudadela,primaria,ciutat vella,46003,1,3,50,calle larga 
+A268,puente del monteloivete,secundaria,quatre carreres,46006,2,4,50,puente
+B46,fuente encarroz,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+A173,paseo ciudadela,primaria,ciutat vella,46003,1,3,50,calle larga
+A134,islas canarias,residencial,el pla del real,46023,1,2,30,calle pequeña
+A139,jesus,secundaria,jesus,46007,1,4,50,calle larga
+A196,avenida de la plata,secundaria,quatre carreres,46013,2,2,50,avenida
+A197,avenida de la plata,secundaria,quatre carreres,46013,2,2,50,avenida
+A24,archiduque carlos,secundaria,patraix,46018,2,6,50,calle larga
+A296,acceso barcelona ramal de entrada [de v-21 a rotonda],salida,algiros,46021,1,7,50,salida
+A14,alboraia,terciaria,la saidia,46010,1,3,50,calle pequeña
+A16,alicante,residencial,l eixample,46004,1,1,30,calle pequeña
+A161,menorca,primaria,camins al grau,46023,2,4,50,calle larga
+A20,avenida antic regne,primaria,l eixample,46005,2,3,50,avenida
+A210,quevedo,residencial,ciutat vella,46001,1,2,30,calle pequeña
+A246,tres cruces,primaria,l olivereta,46018,2,4,50,avenida
+B121,amparo iturbi de j. benlloch a j. ramon jimenez,residencial,jesus,46007,1,2,30,calle pequeña
+B124,mendizabal de alvaro lopez a fausto elio,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B126,sierra aguillent de florista a av. burjasot,residencial,campanar,46009,1,1,30,calle pequeña
+B2,actor mora,residencial,la saidia,46009,2,1,30,calle pequeña
+A199,primado reig,primaria,rascanya,46019,2,7,50,avenida
+A252,xativa,secundaria,ciutat vella,46002,1,4,50,calle larga
+A395,c ruaya,residencial,la saidia,46009,2,2,30,calle larga
+A73,ciscar,terciaria,l eixample,46005,1,2,30,calle pequeña
+A98,dolores marques,residencial,la saidia,46020,1,2,30,calle pequeña
+B125,cuartell de florista a alqueria de bellver,residencial,benicalap,46015,1,2,30,calle pequeña
+B118,molinell,terciaria,la saidia,46010,2,3,30,calle pequeña
+B17,canal de navarres,residencial,campanar,46015,2,1,30,calle pequeña
+B14,burriana,residencial,l eixample,46005,1,1,30,calle pequeña
+B15,calixto iii,residencial,extramuros,46008,1,1,30,calle pequeña
+B16,campoamor,residencial,algiros,46021,2,2,30,calle pequeña
+B18,carrasqueta,residencial,benicalap,46015,1,1,30,calle pequeña
+B21,cavite,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B27,convento carmelitas,residencial,la saidia,46010,1,1,30,calle pequeña
+B32,doctor perez feliu,residencial,patraix,46014,1,1,30,calle pequeña
+B44,fray junipero serra,terciaria,patraix,46014,2,2,30,calle pequeña
+B55,l horta sud,residencial,benicalap,46015,2,2,30,calle pequeña
+B57,jaca,residencial,la saidia,46010,1,1,30,calle pequeña
+B72,ministro luis mayans,residencial,la saidia,46009,2,2,30,calle pequeña
+B73,musico ayllon,terciaria,l olivereta,46018,1,1,30,calle pequeña
+B74,musico gines,terciaria,algiros,46022,1,1,50,calle pequeña
+A257,acceso mislata salida,secundaria,l olivereta,46014,1,2,50,salida
+A266,plaza america,primaria,l eixample,46004,2,8,50,calle larga
+A29,ausias march,primaria,quatre carreres,46006,2,8,50,avenida
+A295,clariano,primaria,algiros,46021,2,6,50,calle larga
+A387,tres cruces,primaria,l olivereta,46018,2,8,50,calle larga
+B75,olta,residencial,quatre carreres,46006,2,2,30,calle pequeña
+A397,reus (entre burjasot y ruaya),terciaria,la saidia,46009,2,4,30,calle pequeña
+A407,avda. del levante u.d.(entre av. de ecuador y juan xxiii),terciaria,benicalap,46025,2,6,30,avenida
+A44,baron de carcer avda,residencial,ciutat vella,46001,2,4,30,avenida
+A45,baron de carcer avda,residencial,ciutat vella,46001,2,4,30,avenida
+A80,constitucion avenida,residencial,la saidia,46009,2,3,50,avenida
+B115,alameda,primaria,el pla del real,46010,2,5,50,calle larga
+B108,vicente de la roda,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B13,borrull,residencial,extramuros,46008,1,1,30,calle pequeña
+B123,padre anton martin de avda. naranjos a san juan de dios,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B23,coeters,residencial,patraix,46014,1,2,30,calle pequeña
+B20,castielfabig,residencial,campanar,46015,1,2,30,calle pequeña
+B24,cofrentes,terciaria,benimaclet,46010,2,2,30,calle pequeña
+B26,conde salvatierra,residencial,l eixample,46004,1,1,30,calle pequeña
+B58,jaime esteve,residencial,benimaclet,46020,1,1,30,calle pequeña
+B65,juan giner,residencial,benimaclet,46020,1,1,30,calle pequeña
+B69,marva,residencial,extramuros,46007,1,1,30,calle pequeña
+B91,ramon asensio,residencial,benimaclet,46020,1,2,30,calle pequeña
+B36,enguera,terciaria,patraix,46018,2,4,30,calle pequeña
+B41,felix pizcueta,residencial,l eixample,46004,1,1,30,calle pequeña
+B60,joaquin costa,terciaria,l eixample,46005,1,2,30,calle pequeña
+A119,tunel de las grandes vias,primaria,extramuros,46007,2,2,40,tunel
+A120,gran via marques del turia,primaria,l eixample,46005,2,8,50,calle larga
+A121,gran via marques del turia,primaria,l eixample,46005,2,8,50,calle larga
+A122,gran via ramon y cajal,primaria,extramuros,46007,2,9,50,calle larga
+A128,guillem de castro,primaria,ciutat vella,46002,1,3,50,calle larga
+A129,hermanos maristas,secundaria,quatre carreres,46013,2,6,50,avenida
+A131,isabel de villena,terciaria,poblados maritimos,46011,1,2,30,calle pequeña
+A132,isabel la catolica,residencial,l eixample,46004,1,2,30,calle pequeña
+A133,islas canarias,residencial,el pla del real,46023,1,2,30,calle pequeña
+A130,hernan cortes,residencial,l eixample,46004,1,1,30,calle pequeña
+A135,j.j. domine,secundaria,poblados maritimos,46011,1,1,30,calle pequeña
+A136,jacinto benavente,primaria,l eixample,46005,2,6,50,avenida
+A138,jaime roig,terciaria,el pla del real,46010,1,3,30,calle larga
+A140,jesus,secundaria,jesus,46007,1,4,50,calle larga
+A141,joaquin ballester,terciaria,campanar,46009,2,6,30,calle larga
+A142,joaquin benlloch,residencial,quatre carreres,46006,2,4,30,calle pequeña
+A146,maestro rodrigo,primaria,campanar,46015,2,7,50,calle larga
+A147,maestro rodrigo,primaria,campanar,46015,2,7,50,calle larga
+A15,alcalde reig,primaria,quatre carreres,46006,2,6,50,calle larga
+A150,malvarrosa avenida,terciaria,poblados martimos,46011,1,2,30,calle pequeña
+A152,manuel de falla,primaria,campanar,46015,1,5,50,calle larga
+A153,manuel soto ingeniero avenida,secundaria,poblados maritimos,46024,2,7,50,calle larga
+A154,marques de sotelo,residencial,ciutat vella,46002,2,6,30,calle larga
+A176,paseo pechina,primaria,extramuros,46008,1,4,50,calle larga
+A181,paz,residencial,ciutat vella,46003,1,3,30,calle pequeña
+A182,predrapiquers,residencial,patraix,46014,2,4,30,calle pequeña
+A187,peris y valero,primaria,quatre carreres,46006,2,5,50,avenida
+A189,peris y valero,primaria,quatre carreres,46006,2,5,50,avenida
+A18,angel guimera,secundaria,extramuros,46008,1,4,30,calle larga
+A190,peris y valero,primaria,quatre carreres,46006,2,5,50,avenida
+A193,pio xii,secundaria,campanar,46009,2,10,50,avenida
+A194,pio xii,secundaria,campanar,46009,2,10,50,avenida
+A195,avenida de la plata,secundaria,quatre carreres,46013,2,2,50,avenida
+A179,pavia,terciaria,poblados maritimos,46011,2,4,30,calle pequeña
+A19,angel guimera,secundaria,extramuros,46008,1,5,50,calle larga
+A180,paz,residencial,ciutat vella,46003,1,3,30,calle pequeña
+A184,perez galdos,primaria,jesus,46007,2,7,50,calle pequeña
+A185,perez galdos,primaria,jesus,46007,2,7,50,calle pequeña
+A186,perez galdos,primaria,jesus,46007,2,7,50,calle pequeña
+A188,peris y valero,primaria,quatre carreres,46006,2,5,50,avenida
+A192,pio baroja avenida,primaria,campanar,46015,2,8,50,avenida
+A22,avenida antic regne,primaria,l eixample,46005,2,3,50,avenida
+A220,safor la,secundaria,benicalap,46015,2,2,30,calle pequeña
+A221,sagunto,terciaria,la saidia,46009,1,2,30,calle pequeña
+A224,san vicente,secundaria,jesus,46017,1,3,50,calle larga
+A23,antonio juan y pintor ferrandi,terciaria,poblados maritimos,46011,2,3,30,calle pequeña
+A231,santos justo y pastor,terciaria,algiros,46021,2,2,50,calle larga
+A238,tetuan plaza,secundaria,ciutat vella,46003,1,4,30,calle larga
+A240,tirso de molina,primaria,campanar,46009,1,6,50,avenida
+A247,tres forques,secundaria,patraix,46018,2,6,50,avenida
+A250,valle de la ballestera,terciaria,campanar,46015,2,6,50,calle larga
+A251,valle de la ballestera,terciaria,campanar,46015,2,6,50,calle larga
+A253,yecla,terciaria,algiros,46021,2,2,40,calle larga
+A254,zapadores,residencial,quatre carreres,46006,1,1,30,calle pequeña
+A256,blanquerias,primaria,ciutat vella,46003,1,5,50,calle larga
+A227,san vicente,secundaria,jesus,46017,1,3,50,calle larga
+A230,santos justo y pastor,terciaria,algiros,46021,2,2,50,calle larga
+A234,serreria,primaria,camins al grau,46022,2,6,50,calle larga
+A239,tirso de molina,primaria,campanar,46009,1,6,50,avenida
+A244,torre variante de la,primaria,jesus,46017,2,6,50,avenida
+A248,tres forques,secundaria,patraix,46018,2,6,50,avenida
+A25,archiduque carlos,secundaria,patraix,46018,2,6,50,avenida
+A280,puente del angel custodio,primaria,quatre carreres,46006,2,7,50,puente
+A281,puente de astilleros,secundaria,poblados maritimos,46024,2,4,40,puente
+A283,juan verdaguer,secundaria,poblados maritimos,46024,2,4,50,calle larga
+A302,mª cristina avda,residencial,ciutat vella,46001,1,1,30,calle pequeña
+A305,ibiza,residencial,poblados maritimos,46024,2,2,30,calle pequeña
+A34,avenida aragon,primaria,el pla del real,46010,2,8,50,avenida
+A350,ayora,residencial,patraix,46018,1,2,30,calle pequeña
+A353,san vicente,secundaria,jesus,46017,1,3,30,calle pequeña
+A355,menendez pidal,primaria,campanar,46009,1,5,50,avenida
+A362,general aviles,primaria,campanar,46015,2,8,50,avenida
+A364,pio baroja,primaria,campanar,46015,2,4,50,calle larga
+A37,avenida burjassot,secundaria,campanar,46009,1,1,30,calle pequeña
+A377,maestro rodrigo,primaria,campanar,46015,2,9,50,calle larga
+A379,plaza tetuan,secundaria,ciutat vella,46003,1,4,30,calle larga
+A38,avenida burjassot,secundaria,campanar,46009,1,1,30,calle pequeña
+A382,pio baroja,primaria,campanar,46015,2,4,50,calle larga
+A384,tomas de montañana,secundaria,camins al grau,46023,2,6,50,calle larga
+A297,acceso barcelona ramal de salida [de paso inferior a v-21],salida, algiros,46021,1,2,50,salida
+A298,acceso de burjassot entrada,residencial,benicalap,46015,1,1,30,calle pequeña
+A344,avenida constitucion,residencial,la saidia,46009,1,2,30,avenida
+A349,maestro guerrero,residencial,extramuros,46008,1,2,30,calle pequeña
+A357,autopista del saler (paso inferior y lateral),primaria,quatre carreres,46006,2,10,50,autopista
+A360,avenida los naranjos,primaria,algiros,46022,2,8,50,avenida
+A361,tres forques,secundaria,patraix,46018,2,6,50,avenida
+A378,safor la,secundaria,benicalap,46015,2,8,50,calle larga
+A385,campos crespo,terciaria,patraix,46017,2,2,50,calle larga
+A386,sueca,residencial,l eixample,46006,1,1,30,calle pequeña
+A39,avenida burjassot,secundaria,campanar,46009,1,1,30,calle pequeña
+A398,hnos machado(juan xxiii-const),primaria,rascanya,46019,2,8,50,avenida
+A406,prolongacion juan xxiii entre hermanos machado y salvador cervero,primaria,rascanya,46019,2,10,50,salida
+A408,antonio ferrandis (entre ausias march y general urrutia),primaria,quatre carreres,46013,2,9,50,avenida
+A409,camino de las moreras (entre autopista del saler y paso elevado ferrocarril),terciaria,quatre carreres,46006,2,4,50,calle larga
+A411,menorca entre prolongacion alameda y av. francia,primaria,camins al grau,46023,2,8,50,calle larga
+A1,acceso barcelona entre v-21 y ronda norte,entrada,algiros,46021,2,8,50,entrada
+A10,paseo de alameda,primaria,el pla del real,46010,2,5,50,calle larga
+A416,av. naranjos entre luis peixo y paseo maritimo,primaria,algiros,46022,2,8,50,avenida
+A43,barcas-pintor sorolla,residencial,ciutat vella,46002,1,3,30,calle pequeña
+A47,blasco ibañez,primaria,algiros,46021,2,6,50,avenida
+A5,acceso barcelona [entre primado reig y blasco ibañez],entrada,rascanya,46019,2,6,50,salida
+A51,blasco ibañez,primaria,el pla del real,46010,2,6,50,avenida
+A53,botanico cabanilles,residencial,la saidia,46010,1,3,50,calle larga
+A59,camino nuevo de picanya,primaria,patraix,46014,2,9,30,calle larga
+A62,campanar avenida,secundaria,campanar,46009,2,4,40,calle larga
+A64,cardenal benlloch,primaria,el pla del real,46021,2,8,50,avenida
+A66,carrera de san luis,residencial,quatre carreres,46006,1,2,30,calle pequeña
+A7,paseo de alameda,primaria,el pla del real,46010,2,5,50,calle larga
+A76,colon,residencial,ciutat vella,46004,1,3,30,calle larga
+A87,doctor gomez ferrer,terciaria,el pla del real,46010,1,3,30,calle pequeña
+A88,doctor lluch,terciaria,poblados maritimos,46011,1,2,30,calle pequeña
+A89,doctor lluch,terciaria,poblados maritimos,46011,1,2,30,calle pequeña
+A9,paseo de alameda,primaria,el pla del real,46010,2,5,50,calle larga
+A90,doctor lluch,terciaria,poblados maritimos,46011,1,2,30,calle pequeña
+A93,doctor marcos sopena,terciaria,poblados maritimos,46011,2,4,30,calle pequeña
+A94,doctor moliner,terciaria,el pla del real,46010,1,2,30,calle pequeña
+A97,doctor peset aleixandre,primaria,la saidia,46009,2,8,50,avenida
+A99,eduardo bosca,primaria,camins al grau,46023,2,6,50,calle larga
+B10,baron de san petrillo,residencial,benimaclet,46020,1,1,30,calle pequeña
+B11,benicadell,residencial,benicalap,46015,1,1,30,calle pequeña
+B100,serpis,terciaria,algiros,46021,2,2,30,calle pequeña
+B103,tamarindos,residencial,campanar,46015,1,2,30,calle pequeña
+B109,virgen de la cabeza,residencial,patraix,46014,1,1,30,calle pequeña
+B110,virgen del sufragio,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B12,bilbao,residencial,la saidia,46009,1,1,30,calle pequeña
+A102,ernesto ferrer,terciaria,el pla del real,46021,2,4,30,calle pequeña
+B31,dels ports,residencial,benicalap,46015,1,1,30,calle pequeña
+B38,escultol alfonso gabino,residencial,algiros,46022,1,1,30,calle pequeña
+B34,duque de calabria,residencial,l eixample,46005,1,1,30,calle pequeña
+B37,erudito orellana,residencial,extramuros,46008,1,2,30,calle pequeña
+B40,explorador andres,residencial,algiros,46022,1,1,30,calle pequeña
+B42,finlandia,terciaria,el pla del real,46010,1,1,30,calle pequeña
+B45,fray pedro vives,residencial,la saidia,46009,2,2,30,calle pequeña
+B49,grabador enguidanos,residencial,campanar,46015,1,1,30,calle pequeña
+A104,eugenia viñes,terciaria,poblados maritimos,46011,1,2,30,calle pequeña
+A110,gaspar aguilar,secundaria,jesus,46007,2,4,50,calle larga
+A118,germanias,primaria,l eixample,46006,2,8,50,calle larga
+A12,alameda prolongacion,secundaria,camins al grau,46023,2,5,50,calle larga
+A123,guadalaviar,primaria,la saidia,46009,2,5,50,calle larga
+A124,guillem de castro,primaria,ciutat vella,46002,1,3,50,calle larga
+A127,guillem de castro,primaria,ciutat vella,46002,1,3,50,calle larga
+A13,alboraia,terciaria,la saidia,46010,1,3,30,calle pequeña
+A144,llano de zaidia,primaria,la saidia,46009,2,6,50,calle larga
+A167,nicasio benlloch,terciaria,campanar,46009,1,2,30,calle pequeña
+A169,nicasio benlloch,terciaria,campanar,46009,1,4,30,calle larga
+B97,sagasta,residencial,ciutat vella,46002,1,1,30,calle pequeña
+A106,fontanares,terciaria,patraix,46007,2,2,30,calle pequeña
+A107,francia avda,secundaria,camins al grau,46023,2,8,50,avenida
+A109,gaspar aguilar,secundaria,jesus,46007,2,4,50,avenida
+A116,giorgeta,primaria,extramuros,46007,2,8,50,avenida
+A137,jaime beltran,terciaria,jesus,46007,2,3,30,calle pequeña
+A143,linares,secundaria,l olivereta,46018,1,4,50,calle larga
+A145,lorca,secundaria,l olivereta,46018,1,4,50,calle larga
+A148,malilla carrera,terciaria,quatre carreres,46006,2,4,50,calle larga
+A149,malilla carrera,terciaria,quatre carreres,46006,2,3,50,calle larga
+A155,matias perello,secundaria,l eixample,46005,1,3,50,calle larga
+A163,mestre racional,secundaria,l eixample,46005,1,3,50,calle larga
+B95,rodriguez de cepeda,residencial,camins al grau,46021,1,2,30,calle pequeña
+A164,micer masco,residencial,el pla del real,46010,1,2,30,calle pequeña
+A226,san vicente,secundaria,extramuros,46008,1,3,50,calle larga
+A235,serreria entre santos justo y pastor y blasco ibañez,primaria,camins al grau,46022,2,6,50,calle larga
+A237,avenida suecia,residencial,el pla del real,46010,2,3,30,calle larga
+A241,tomas de montañana,secundaria,camins al grau,46023,2,6,50,calle larga
+A258,hnos maristas instituto obre,secundaria,quatre carreres,46013,2,6,50,avenida
+A271,puente de las viejas glorias,primaria,extramuros,46008,2,8,50,puente
+A278,puente de aragon,primaria,el pla del real,46010,2,7,50,puente
+A279,puente del reino,primaria,quatre carreres,46006,2,7,50,puente
+A28,ausias march,primaria,quatre carreres,46006,2,8,50,avenida
+A291,pintor benedito,secundaria,extramuros,46007,1,5,50,calle larga
+A299,camp del turia,secundaria,benicalap,46015,2,6,50,calle larga
+A261,avenida baleares,primaria,camins al grau,46023,1,4,50,avenida
+A264,gibraltar,terciaria,l eixample,46006,2,2,30,calle pequeña
+A267,puente nueve de octubre,primaria,campanar,46015,2,6,50,puente
+A27,ausias march,primaria,quatre carreres,46006,2,8,50,avenida
+A270,puente de campanar,primaria,campanar,46015,2,8,50,puente
+A272,puente de las artes,secundaria,ciutat vella,46002,2,7,50,puente
+A276,puente del real,primaria,la saidia,46020,2,5,50,puente
+A277,puente de las flores,secundaria,el pla del real,46023,1,3,50,puente
+A290,san jose de calasanz,secundaria,extramuros,46008,1,4,50,calle larga
+A399,hnos machado(const-alfahuir),primaria,rascanya,46019,2,8,50,avenida
+A413,menorca entre av francia y av baleares,primaria,camins al grau,46023,2,8,50,avenida
+A415,santos justo y pastor entre jose m haro y serreria,terciaria,algiros,46021,2,2,50,calle larga
+A46,blanquerias,primaria,ciutat vella,46003,1,5,50,calle larga
+A49,blasco ibañez,primaria,algiros,46021,2,6,50,avenida
+A52,blasco ibañez,primaria,algiros,46021,2,6,50,avenida
+A56,c moncada p aleix a h macha,terciaria,benicalap,46015,2,4,50,calle larga
+A58,camino nuevo de picanya,primaria,patraix,46014,2,9,30,calle larga
+A61,campanar avenida,secundaria,campanar,46009,2,4,40,calle larga
+A65,cardenal benlloch,primaria,el pla del real,46021,2,8,50,avenida
+A69,cid avenida,primaria,patraix,46018,2,8,50,avenida
+A70,cid avenida,primaria,patraix,46018,2,8,50,avenida
+A71,cid avenida,primaria,l olivereta,46018,2,11,50,avenida
+A74,clariano,primaria,algiros,46021,2,6,50,calle larga
+A165,avenida de los naranjos,primaria,algiros,46022,2,8,50,avenida
+A413,pont de l assut de l or entre menorca y autopista del saler,primaria,quatre carreres,46006,2,6,50,puente
+A414,ingeniero fausto elio entre av de los naranjos y c mendizabal,terciaria,algiros,46011,2,2,40,salida
+A49,blasco ibañez,primaria,el pla del real,46021,2,9,50,avenida
+A50,blasco ibañez,primaria,algiros,46021,2,6,50,avenida
+A54,brasil,residencial,l olivereta,46018,1,2,30,calle pequeña
+A55,cadiz,residencial,l eixample,46006,1,1,30,calle pequeña
+A60,camp del turia,secundaria,benicalap,46015,2,6,50,calle larga
+A68,los centelles,secundaria,l eixample,46006,1,3,30,calle pequeña
+A72,cid avenida,primaria,l olivereta,46018,2,11,50,salida
+B1,acacias,residencial,benicalap,46025,1,1,30,calle pequeña
+B105,torres,residencial,l olivereta,46018,1,1,30,calle pequeña
+B89,pobla del duc,residencial,la saidia,46009,1,1,30,calle pequeña
+A166,navarro reverter,secundaria,l eixample,46004,2,5,30,calle pequeña
+A168,nicasio benlloch,terciaria,campanar,46009,1,2,30,calle pequeña
+A170,nueve de octubre,primaria,l olivereta,46018,2,9,50,avenida
+A175,paseo pechina,primaria,extramuros,46008,1,4,50,calle larga
+A177,paseo pechina,primaria,extramuros,46008,1,4,50,calle larga
+A178,pavia,terciaria,poblados maritimos,46011,2,4,30,calle pequeña
+A204,puerto avenida del,primaria,el pla del real,46021,1,5,50,avenida
+A212,ramon llul,terciaria,algiros,46021,2,6,50,calle larga
+A213,la reina,terciaria,poblados maritimos,46011,1,2,30,calle larga
+A215,la reina,terciaria,poblados maritimos,46011,1,2,30,calle larga
+A217,ruzafa,residencial,l eixample,46004,1,2,30,calle pequeña
+A218,ruzafa s sua maestro aguilar,terciaria,l eixample,46004,1,2,30,calle pequeña
+A219,safor la,secundaria,benicalap,46015,2,8,50,calle larga
+A17,almassora,terciaria,la saidia,46010,2,5,50,calle larga
+A171,padre ferris,terciaria,campanar,46009,1,2,50,calle larga
+A183,pedro aleixandre,residencial,quatre carreres,46006,1,1,30,calle pequeña
+A198,primado reig,primaria,rascanya,46019,2,7,50,avenida
+A209,quart,residencial,ciutat vella,46001,1,1,30,calle pequeña
+A21,avenida antic regne,primaria,l eixample,46005,2,3,50,avenida
+A211,ramon llul,terciaria,algiros,46021,2,6,50,calle larga
+A214,la reina,terciaria,poblados maritimos,46011,1,2,30,calle larga
+A216,roger de lauria,residencial,ciutat vella,46002,1,2,30,calle pequeña
+A233,serreria,primaria,camins al grau,46022,2,6,50,calle larga
+A26,archiduque carlos,secundaria,patraix,46018,2,6,50,calle larga
+A287,acceso barcelona (paso inferior)[entre v-21 y av cataluña],salida,algiros,46021,2,4,50,salida
+A3,av cataluña [de rotonda a primador reig],salida,algiros,46021,1,4,50,salida
+A347,castan tobeñas,terciaria,l olivereta,46018,1,2,30,calle pequeña
+A363,general aviles,primaria,campanar,46015,2,8,50,avenida
+A365,maestro rodrigo,primaria,campanar,46015,2,7,50,calle larga
+A367,juan xxiii,secundaria,benicalap,46025,2,7,50,avenida
+A369,paseo alameda,secundaria,camins al grau,46023,2,7,50,calle larga
+A371,bulevar sur,primaria,jesus,46017,2,9,50,avenida
+A373,acceso sur (n-332),salida,quatre carreres,46006,2,6,50,salida
+A374,bulevar sur,primaria,jesus,46017,2,9,50,avenida
+A375,bulevar sur,primaria,jesus,46017,2,9,50,avenida
+A394,salida-valencia por alfahuir,salida,rascanya,46019,1,3,50,salida
+A392,entrada-valencia por alfahuir,entrada,rascanya,46019,1,3,50,entrada
+A33,avenida aragon,primaria,el pla del real,46010,2,8,50,avenida
+A345,puente exposicion (calatrava),terciaria,l eixample,46004,1,3,50,puente
+A359,jose m haro,residencial,algiros,46022,2,4,30,calle pequeña
+A36,avenida burjassot,secundaria,campanar,46009,2,4,30,calle pequeña
+A376,ronda norte,primaria,rascanya,46019,2,6,50,calle larga
+A396,c pintor maella,terciaria,camins al grau,46023,2,6,50,calle larga
+B104,tenerife,terciaria,l olivereta,46018,2,2,30,calle pequeña
+B106,vicente gallart,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B111,antonio ferrandis,primaria,quatre carreres,46013,2,9,50,avenida
+B114,pintor ferrandis,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B29,cura planelles,resdiencial,poblados maritimos,46011,1,1,30,calle pequeña
+B4,almirante cadarso,residencial,l eixample,46005,1,1,30,calle pequeña
+B52,habana,residencial,l olivereta,46014,2,2,30,calle pequeña
+B53,hermanos villalonga,residencial,benimaclet,46020,1,1,30,calle pequeña
+B51,gregorio mayans,residencial,l eixample,46005,2,2,30,calle pequeña
+B54,historiador coloma,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B63,jose grollo,residencial,benicalap,46025,1,1,30,calle pequeña
+B64,jose maestre,residencial,l olivereta,46018,2,2,30,calle pequeña
+B7,andreu alabarta,residencial,patraix,46014,1,1,30,calle pequeña
+B79,pedro iii,residencial,l eixample,46005,1,1,30,calle pequeña
+B82,pintor salvador abril,residencial,l eixample,46005,1,1,30,calle pequeña
+B83,pintor vilar,residencial,la saidia,46010,2,2,30,calle pequeña
+B84,platero suarez,terciaria,la saidia,46009,2,4,30,calle pequeña
+B88,progreso,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B92,ramon duart,residencial,quatre carreres,46013,2,2,30,calle pequeña
+B93,reina doña germana,residencial,l eixample,46005,1,2,30,calle pequeña
+B94,rio tajo,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B61,jose aguirre,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B68,llombay,residencial,l olivereta,46018,2,2,30,calle pequeña
+B77,padre porta,residencial,poblados maritimos,46024,1,1,30,calle pequeña
+B81,pintor genaro lahuerta,residencial,la saidia,46010,1,1,30,calle pequeña
+B80,travesia pescadores,residencial,poblados maritimos,46011,1,1,30,calle pequeña
+B86,poeta mas y ros,residencial,algiros,46021,1,1,30,calle pequeña
+A113,general gil dolz,residencial,el pla del real,46010,1,2,30,calle pequeña
+A114,general urrutia,secundaria,quatre carreres,46006,2,4,30,calle pequeña
+A115,general urrutia,secundaria,quatre carreres,46006,2,4,30,calle pequeña
+A117,gran via fernando el catolico,primaria,extramuros,46008,2,6,50,calle larga
+A200,primado reig,primaria,rascanya,46019,2,7,50,avenida
+A201,primado reig,primaria,rascanya,46019,2,7,50,avenida
+A205,puerto avenida del,primaria,el pla del real,46021,1,5,50,avenida
+A206,puerto avenida del,primaria,el pla del real,46021,1,5,50,avenida
+A207,puerto avenida del,primaria,el pla del real,46021,1,5,50,avenida
+A208,quart s j montaña,residencial,ciutat vella,46001,1,1,30,calle pequeña
+A223,san pio v,primaria,la saidia,46010,1,3,50,calle larga
+A225,san vicente,secundaria,jesus,46017,2,4,50,calle larga
+A236,sorni,residencial,l eixample,46004,1,2,30,calle pequeña
+A243,tomas de villarroya,residencial,jesus,46017,1,1,30,calle pequeña
+A245,tres cruces,primaria,l olivereta,46018,2,4,50,avenida
+A260,av baleares,primaria,camins al grau,46023,1,4,50,avenida
+A30,autopista del saler,salida,quatre carreres,46006,2,5,50,salida
+A301,poeta querol,residencial,ciutat vella,46002,1,3,30,calle pequeña
+A303,jesus,secundaria,jesus,46017,1,4,50,calle larga
+A35,avenida burjassot,secundaria,campanar,46009,1,1,30,calle pequeña
+A351,avda mediterraneo,terciaria,poblados maritimos,46011,1,1,30,calle pequeña
+A372,bulevar sur,primaria,jesus,46017,2,9,50,avenida
+A81,cortes valencianas desde general aviles hasta la safor,primaria,campanar,46015,2,12,50,avenida
+A83,cuenca,residencial,extramuros,46007,1,3,30,calle pequeña
+A82,cortes valencianas,primaria,campanar,46015,2,12,50,avenida
+A84,cuenca,residencial,extramuros,46007,1,3,30,calle pequeña
+A85,cuenca,residencial,extramuros,46007,1,3,30,calle pequeña
+A105,filipinas,secundaria,l eixample,46006,2,6,50,calle larga
+A108,gasco oliag,residencial,el pla del real,46010,1,3,30,calle pequeña
+A11,alameda prolongacion,secundaria,camins al grau,46023,2,7,50,calle larga
+A111,general aviles,primaria,campanar,46015,2,8,50,avenida
+A112,general elio,secundaria,el pla del real,46010,2,6,50,calle larga
+A122,gran via ramon y cajal,primaria,extramuros,46007,2,9,50,calle larga
+A77,colon,residencial,ciutat vella,46004,1,3,30,calle larga
+A8,paseo de alameda,primaria,el pla del real,46010,2,5,50,calle larga
+A86,cuenca,residencial,extramuros,46007,1,3,30,calle pequeña
+A91,doctor manuel candela,secundaria,camins al grau,46021,2,7,50,calle larga
+A92,doctor manuel candela,secundaria,camins al grau,46021,2,7,50,calle larga
+A95,doctor peset aleixandre,primaria,la saidia,46009,2,8,50,avenida
+A96,doctor peset aleixandre,primaria,la saidia,46009,2,8,50,avenida
+B87,poeta monmeneu,residencial,la saidia,46009,1,1,30,calle pequeña
+B9,artes graficas,residencial,el pla del real,46010,1,1,30,calle pequeña
+B90,pobla llarga,residencial,benimaclet,46020,1,1,30,calle pequeña

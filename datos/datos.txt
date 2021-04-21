@@ -1,0 +1,36 @@
+Datos sobre vehículos
+	Estado del trafico a tiempo real:
+		http://gobiernoabierto.valencia.es/es/dataset/?id=estado-trafico-tiempo-real
+
+	Datos históricos de Valencia:
+		
+		2012-2014
+			http://dataupv.webs.upv.es/datos-historicos-de-trafico-en-valencia/
+		Datos en fallas 2013-2016:
+
+	Datos en tiempo real de Valencia:
+	Por tramos:
+		http://gobiernoabierto.valencia.es/es/resource/?ds=intensidad-trafico-tramos&id=629e12e4-b314-4477-8da6-88157bcd981e&ft=HTML
+
+		http://gobiernoabierto.valencia.es/es/resource/?ds=intensidad-trafico-tramos&id=629e12e4-b314-4477-8da6-88157bcd981e&ft=JSON
+	Por espiras:
+		Datos geograficos de las espiras:
+			
+	Datos intensidad espiras :
+		http://gobiernoabierto.valencia.es/es/resource/?ds=puntos-medida-trafico-espiras-electromagneticas&id=fcfb9fc1-ba52-46e2-97b1-44ab1db13775	
+	Otras fuentes de datos:
+		New York -->	https://data.cityofnewyork.us/Transportation/Traffic-Volume-Counts-2014-2019-/ertz-hr4r
+		Seattle --> 	https://ieee-dataport.org/documents/traffic-flow-prediction-and-program-codes#files 	(Ojo, son bicicletas)
+		Madrid --> 	https://datos.gob.es/en/catalogo/l01280796-trafico-datos-del-trafico-en-tiempo-real1
+		Algunos más de España --> https://datos.gob.es/en/catalogo?q=intensidad+trafico&g-recaptcha-response=&sort=metadata_created+desc
+Datos meteorológicos:
+	http://dataupv.webs.upv.es/datos-historicos-de-la-observacion-meteorologica-en-valencia/
+	https://opendata.aemet.es/centrodedescargas/productosAEMET? (Diferentes estaciones de medida)
+
+
+
+Problema con los datos --> Relaccion entre historicos y en tiempo real, coincidencia entre estaciones de medicion o tramos.
+Datos por tramos y datos por espiras, los tramos se centran en valencia y hay espiras fuera de valencia, hay que ver coincidencias(La mayoria de los que quedan fuera no tienen dato en intensidad pero otros si, algunos que caen dentro del tramo no tienen dato en intensidad tampoco)
+
+Codigo ata - calles
+Ventana - Por horas

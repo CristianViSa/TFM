@@ -1,0 +1,159 @@
+/*---------------------------------------------------------------
+# Package - Joomla Template based on Helix Framework   
+# ---------------------------------------------------------------
+# Author - JoomShaper http://www.joomshaper.com
+# Copyright (C) 2010 - 2012 JoomShaper.com. All Rights Reserved.
+# license - PHP files are licensed under  GNU/GPL V2
+# license - CSS  - JS - IMAGE files  are Copyrighted material 
+# Websites: http://www.joomshaper.com
+-----------------------------------------------------------------*/
+
+/* Typography */
+.image-left,.img_caption.left,.img-fulltext-left,.img-intro-left, img[align="left"]{float:left;margin:0 15px 5px 0}
+.rtl .image-left,.rtl .img_caption.left,.rtl .img-fulltext-left,.rtl .img-intro-left, .rtl img[align="left"]{float:right;margin:0 5px 0 15px}
+.image-right,.img_caption.right,.img-fulltext-right,.img-intro-right, img[align="right"]{float:right;margin:0 0 5px 15px}
+.rtl .image-right, .rtl .img_caption.right, .rtl .img-fulltext-right, .rtl .img-intro-right, .rtl img[align="right"]{float: left;margin: 0 15px .5px 0;}
+.border{display:block;position:relative;border:1px solid #F0F0F0;border-bottom:1px solid #D4D4D4;border-right:1px solid #D4D4D4;padding:5px;background:#fff}
+img.img_caption{width:auto!important}
+.image-margin{margin:5px}
+
+/* Dropcap */
+.dropcap{overflow:hidden}
+.dropcap:first-letter{color:#666;display:block;float:left;font:50px/40px Georgia,Times,serif;padding:4px 8px 0 0}
+
+/* Tips,Error,Message,Hightlight*/
+p.error{background:url(../images/typo/error.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.warn{background:url(../images/typo/warn.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.tips{background:url(../images/typo/tips.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.help{background:url(../images/typo/help.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.info{background:url(../images/typo/info.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.email{background:url(../images/typo/email.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.print{background:url(../images/typo/print.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.rss{background:url(../images/typo/rss.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.save{background:url(../images/typo/save.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.lock{background:url(../images/typo/lock.gif) no-repeat 0 5px;padding:0 0 5px 24px}
+p.user{background:url(../images/typo/user.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.new{background:url(../images/typo/new.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.house{background:url(../images/typo/house.png) no-repeat 0 5px;padding:0 0 5px 24px}
+p.tag{background:url(../images/typo/tag.png) no-repeat 0 5px;padding:0 0 5px 24px}
+.highlight{color:#fff;background:#999;font-weight:bold;padding:3px 5px}
+
+/* Note Style */
+p.stickynote{background:#f5f5f5 url(../images/typo/sticky.png) no-repeat 0 0;border:1px solid #d3d3d3;padding:15px 10px 15px 60px}
+p.download{background:#f5f5f5 url(../images/typo/download.png) no-repeat 0 0;border:1px solid #d3d3d3;padding:15px 10px 15px 60px}
+
+/*Unordered Lists*/
+ul.rss, ul.minus, ul.delete, ul.check, ul.arrow, ul.arrow-2, ul.add, ul.star {list-style:none;margin:0;padding:0}
+ul.rss li, ul.minus li, ul.delete li, ul.check li, ul.arrow li, ul.arrow-2 li, ul.add li, ul.star li {margin-left:0;padding:0 0 0 20px}
+ul.rss li {background:url(../images/typo/rss_list.png) no-repeat 0 2px;}
+ul.minus li {background:url(../images/typo/minus.png) no-repeat 0 2px;}
+ul.delete li {background:url(../images/typo/delete.png) no-repeat 0 2px;}
+ul.check li {background:url(../images/typo/check.png) no-repeat 0 2px;}
+ul.arrow li {background:url(../images/typo/arrow.png) no-repeat 0 2px;}
+ul.arrow-2 li {background:url(../images/typo/arrow-2.png) no-repeat 0 2px;}
+ul.add li {background:url(../images/typo/add.png) no-repeat 0 2px;}
+ul.star li {background:url(../images/typo/star.png) no-repeat 0 2px;}
+
+/*Columns*/
+.sp-row {padding:30px 0}
+.sp-col2, .sp-col3, .sp-col4, .sp-col5 {float:left}
+.sp-col2 {width:50%}
+.sp-col3 {width:33.33%}
+.sp-col4 {width:25%}
+.sp-col5 {width:20%}
+
+/*Bootstrap*/
+.btn .caret {margin-bottom:8px}
+.com { color: #93a1a1; }
+.lit { color: #195f91; }
+.pun, .opn, .clo { color: #93a1a1; }
+.fun { color: #dc322f; }
+.str, .atv { color: #D14; }
+.kwd, .prettyprint .tag { color: #1e347b; }
+.typ, .atn, .dec, .var { color: teal; }
+.pln { color: #48484c; }
+
+.prettyprint {
+  padding: 8px;
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+}
+.prettyprint.linenums {
+  -webkit-box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+     -moz-box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+          box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+}
+
+/* Specify class=linenums on a pre to get line numbering */
+ol.linenums {
+  margin: 0 0 0 33px; /* IE indents via margin-left */
+}
+ol.linenums li {
+  padding-left: 12px;
+  color: #bebec5;
+  line-height: 20px;
+  text-shadow: 0 1px 0 #fff;
+}
+
+
+.bs-docs-example {
+  position: relative;
+  margin: 15px 0;
+  padding: 39px 19px 14px;
+  *padding-top: 19px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+/* Echo out a label for the example */
+.bs-docs-example:after {
+  content: "Example";
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  color: #9da0a4;
+  -webkit-border-radius: 4px 0 4px 0;
+     -moz-border-radius: 4px 0 4px 0;
+          border-radius: 4px 0 4px 0;
+}
+
+/* Remove spacing between an example and it's code */
+.bs-docs-example + .prettyprint {
+  margin-top: -20px;
+  padding-top: 15px;
+}
+
+ul.the-icons {
+	list-style:none;
+	padding:0;
+	margin:0
+}
+.the-icons li {
+	float: left;
+	width: 25%;
+	line-height: 25px;
+	background: none;
+}
+
+/* Example sites showcase */
+.example-sites {
+  margin-left: 20px;
+}
+.example-sites img {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.scrollspy-example {
+  height: 200px;
+  overflow: auto;
+  position: relative;
+}
