@@ -2,9 +2,18 @@
 
 Modelo basado en redes neuronales para la predicción del tráfico en la ciudad de Valencia.
 
-## Comenzando 🚀
+## Descripción 🚀
 
 Este proyecto ha sido desarrollado como un trabajo final de máster en la Universitat Politecnica de Valencia.
+
+Contiene ficheros para:
+* Obtener los datos
+* Limpiar los datos
+* Analizar los datos
+* Crear mapas GEOJSON de la ciudad de Valencia
+* Crear los modelos: MLP, LSTM
+
+
 
 ## Autores ✒️
 
