@@ -1,4 +1,26 @@
-TFM - Modelo basado en redes neuronales para la predicción de tráfico en la ciudad de Valencia
+# Título del Proyecto
+
+Modelo basado en redes neuronales para la predicción del tráfico en la ciudad de Valencia.
+
+## Comenzando 🚀
+
+Este proyecto ha sido desarrollado como un trabajo final de máster en la Universitat Politecnica de Valencia.
+
+## Autores ✒️
+
+* **Cristian Villarroya**  - [cristianvisa](https://github.com/cristianvisa)
+
+## Licencia 📄
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
-Autor : Cristian Villarroya Sánchez
