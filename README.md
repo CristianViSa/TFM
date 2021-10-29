@@ -1,6 +1,4 @@
-# Título del Proyecto
-
-Modelo basado en redes neuronales para la predicción del tráfico en la ciudad de Valencia.
+# Modelo basado en redes neuronales para la predicción del tráfico en la ciudad de Valencia.
 
 ## Descripción 🚀
 
