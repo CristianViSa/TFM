@@ -4,13 +4,14 @@
 
 Este proyecto ha sido desarrollado como un trabajo final de máster en la Universitat Politecnica de Valencia.
 
-Contiene ficheros para:
-* Obtener los datos
-* Limpiar los datos
-* Analizar los datos
-* Crear mapas GEOJSON de la ciudad de Valencia
-* Crear los modelos: MLP, LSTM
-
+Contiene los siguientes ficheros:
+* Obtener los datos --> api_request\request.py
+* Cargar los datos a la BD y visualizarlos --> ETL\bd.py, ETL\atas.py
+* Limpiar los datos --> tfm_limpieza_datos.ipynb
+* Analizar los datos --> tfm_estudio_serie_temporal.ipynb
+* Crear mapas GEOJSON de la ciudad de Valencia -->  mapa\mapa.ipynb
+* Crear los modelos: MLP, LSTM --> perceptron.ipynb, lstm_original.ipynb, lstm_mejorada.ipynb
+* Memoria PDF
 
 
 ## Autores ✒️
